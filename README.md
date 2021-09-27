@@ -1,3 +1,3 @@
 # Moon-Walking-
 
-![Moon walking](./moon_walking.png)
+![Moon walking](./moon-walking.png)
